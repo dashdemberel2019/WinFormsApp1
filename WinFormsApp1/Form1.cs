@@ -50,7 +50,7 @@ namespace WinFormsApp1
 
         private void button18_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "7";
+            textBox1.Text = textBox1.Text + "6";
         }
 
         private void button17_Click(object sender, EventArgs e)
